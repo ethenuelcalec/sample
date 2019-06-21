@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101
+    "lastname": "Dayahan"
+    "firstname":"Ethenuel Calec"
+    "middlename": "Trinos"
+    "address": "Cabuyao, Laguna"
+    "hobbies": "TGIF, Basketball"
+  },
+  {
+    "id": 102
+    "lastname": "Mercado"
+    "firstname":"Jose Protacio Rizal"
+    "middlename": "Realonda"
+    "address": "Calamba, Laguna"
+    "hobbies": "Reading, Basketball"
+  },
+  {
+    "id": 103
+    "lastname": "James"
+    "firstname":"LeBron"
+    "middlename": "Raymone"
+    "address": "Akron, Ohio"
+    "hobbies": "TGIF, Basketball"
+  },
+]
